@@ -1,1 +1,2 @@
-# Connect-4-Game
+In this design assignment, I created a Connect4 game for two users. Connect4 is a two-player game in which players take turns dropping various colored checkers from the top into a vertically hanging seven-column, six-row grid. The checker falls straight down, taking up the smallest available spot in the column. The goal of the game is for the player to be the first to link four of their own checkers horizontally, vertically, or diagonally.
+Please refer to the operations document to further see how the game works.
